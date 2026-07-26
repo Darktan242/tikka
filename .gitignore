@@ -11,5 +11,5 @@ CLAUDE.md
 sdk/docs/
 node_modules/
 dist/
-.env
 *.log
+config.bat
